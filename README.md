@@ -2,8 +2,6 @@
 
 Creando una Website con:
 
-# HTML
-
-# CSS
-
-# JS
+HTML
+CSS
+JavaScript
